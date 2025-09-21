@@ -4,7 +4,7 @@
 
 ## 1. Список из 10 CVE-2022 - CVE-2025 (LPE|RCE)
 
-5 RCE and 5 LPE
+### 5 RCE and 5 LPE
 
 1) CVE-2024-38063    https://github.com/ynwarcs/CVE-2024-38063 (RCE)
 
